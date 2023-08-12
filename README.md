@@ -43,21 +43,3 @@
 #### 百度网盘：https://pan.baidu.com/s/1OrYrfEY2Z3JtTNZHXjRD5g  提取码：9aqr （网速太慢，内容暂未更新）
 
 #### 阿里云盘 ：https://www.aliyundrive.com/s/wdeBS6RaXZm  提取码: 89ua
-
-没有阿里云盘的同学欢迎点击下方我的邀请链接进行注册，直接领取300GB空间
-https://pages.aliyundrive.com/mobile-page/web/beinvited.html?code=b75a122
-
-如有下载不畅，请在issues中说明，或者邮件：xuelei0227@foxmail.com联系
-
-如果本仓库对你有帮助，欢迎扫描下面二维码给我赞赏
-
-以下赞赏排名不分先后
-- *露 ￥10
-- S*e ￥5
-- *难 ￥5
-- *yi ￥10
-- *樱 ￥1
-- *了 ￥1
-- *！ ￥5
-
-![](https://github.com/xiaolei565/aimto408/blob/master/wxpay.jpeg?raw=true)
